@@ -1,5 +1,11 @@
 ## My name is haku 🍂🍂, programmer/sysadmin who enjoys coding!
 
+<style>
+  table, tr, td {
+      border: 0;
+  }
+</style>
+
 <table>
   <tr>
     <td>Currently working from Gentoo GNU/Linux</td>
