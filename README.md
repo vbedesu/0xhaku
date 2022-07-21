@@ -1,10 +1,4 @@
-<h2 align="center">Hi I'm Haku Nagashe</h2>
-<h3 align="center">C/C++ enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xhaku&label=Profile%20views&color=0e75b6&style=flat" alt="0xhaku" /> </p>
-
-- I’m currently learning **OpenGL ES**
-
+### Hi I'm Haku Nagashe
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCmUnc9TVhGPU2EBYuOnL1zA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCmUnc9TVhGPU2EBYuOnL1zA" height="30" width="40" /></a>
