@@ -1,8 +1,8 @@
 ## My name is haku 🍂🍂, programmer/sysadmin who enjoys coding!
 
-<span style="display: flex">
+<span style="display: flex; align-items: center;">
   <span>Actually working from Gentoo GNU/Linux</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" style="width: 100px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" style="width: 30px;">
 </span>
 
 
