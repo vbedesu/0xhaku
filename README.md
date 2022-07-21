@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmunc9tvhgpu2ebyuonl1za" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmunc9tvhgpu2ebyuonl1za" height="30" width="40" /></a>
+<a href="https://matrix.to/#/@0xhaku:matrix.org" target="blank"><img align="center" src="https://element.io/images/logo-mark-primary.svg" alt="https://www.youtube.com/channel/ucmunc9tvhgpu2ebyuonl1za" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
