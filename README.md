@@ -2,7 +2,7 @@
 
 <span>
   <span>Actually working from Gentoo GNU/Linux</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" style="width: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" style="width: 10px;">
 </span>
 
 
