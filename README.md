@@ -1,12 +1,6 @@
 ## My name is haku 🍂🍂, programmer/sysadmin who enjoys coding!
 
-<style>
-  table, tr, td {
-      border: 0;
-  }
-</style>
-
-<table>
+<table style="border: 0;">
   <tr>
     <td>Currently working from Gentoo GNU/Linux</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" style="width: 100px;"></td>
