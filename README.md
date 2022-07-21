@@ -1,11 +1,10 @@
 ## My name is haku 🍂🍂, programmer/sysadmin who enjoys coding!
 
-<table style="border: 0;">
-  <tr style="border: 0;">
-    <td style="border: 0;">Currently working from Gentoo GNU/Linux</td>
-    <td style="border: 0;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" style="width: 100px;"></td>
-  </tr>
-</table>
+<span style="display: flex">
+  <span>Actually working from Gentoo GNU/Linux</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" style="width: 100px;">
+</span>
+
 
 <!--
 **0xhaku/0xhaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
